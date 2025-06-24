@@ -20,6 +20,7 @@ A simple Discord bot written in Go that responds to the `!ping` command with `Po
 1. Clone the repository:
 
     git clone https://github.com/KDhruv3/Ping-Pong.git
+    
     cd Ping-Pong
 
 
