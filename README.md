@@ -46,7 +46,3 @@ Run the bot with:
 
 Type `!ping` in your Discord server where the bot is added, and it will reply with `Pong!`.
 
-## License
-
-This project is licensed under the MIT License.
-
